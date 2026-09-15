@@ -43,6 +43,8 @@
 ## This project demonstrates practical AZURE ADMINISTRATION AND CLOUD COST-MANAGEMENT SKILLS
 ## SCREENSHOTS
 ## <img width="1354" height="613" alt="image" src="https://github.com/user-attachments/assets/76f3665e-7c9d-4257-b0cf-56a25d9e6589" />
-## 
+## <img width="1356" height="615" alt="image" src="https://github.com/user-attachments/assets/26f57997-5096-4098-9896-942e30abffc4" />
+##     
+
 
 
