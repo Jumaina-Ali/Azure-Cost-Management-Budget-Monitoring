@@ -42,4 +42,5 @@
 ## Successfully configured Azure Cost Management to monitor cloud spending and created a monthly budget with an automated cost alert.
 ## This project demonstrates practical AZURE ADMINISTRATION AND CLOUD COST-MANAGEMENT SKILLS
 ## SCREENSHOTS
-##
+## 
+https://github.com/Jumaina-Ali/Azure-Cost-Management-Budget-Monitoring/blob/333f5a07c0dae33c7aa00415bc262c4a44bd91a8/cost%20analysis.png
